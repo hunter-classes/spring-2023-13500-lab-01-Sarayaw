@@ -1,3 +1,11 @@
+/*
+Author: Saraya Weerasinghe
+Course: CSCI-135
+Instructor: Michael Zamansky
+Assignment: Lab 1C
+*** asks user to pick a year and program will determine whether that year is a leap year or not ***
+*/
+
 #include <iostream>
 
 int main() {
