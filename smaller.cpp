@@ -1,3 +1,11 @@
+/*
+Author: Saraya Weerasinghe
+Course: CSCI-135
+Instructor: Michael Zamansky
+Assignment: Lab 1 A
+*** asks the user to input two numbers and program will figure out which one of the two numbers are smaller ***
+*/
+
 #include <iostream>
 int main() {
  
