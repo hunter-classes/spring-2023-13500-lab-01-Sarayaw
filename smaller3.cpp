@@ -1,3 +1,11 @@
+/*
+Author: Saraya Weerasinghe
+Course: CSCI-135
+Instructor: Michael Zamansky
+Assignment: Lab 1 B
+*** asks the user to input three random integers and program will choose whcih integer is the smallest. ***
+*/
+
 #include <iostream>
 int main() {
  
